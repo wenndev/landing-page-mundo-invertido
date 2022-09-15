@@ -1,0 +1,26 @@
+@use '_variables';
+
+@mixin generic-tags-style{
+    font-family:var(--featured-font-family);
+    font-size: 3rem;
+    color: variables.$primary-color;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+@mixin button-style{
+    padding: 16px 32px;
+    background-color: transparent;
+    font-weight: 900;
+    font-family:var(--featured-font-family);
+    font-size: 1.25rem;
+    text-transform: uppercase;
+    cursor: pointer;
+    
+}
+
+@mixin section-style{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 95px;
+}
+
