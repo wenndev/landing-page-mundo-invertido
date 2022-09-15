@@ -10,7 +10,7 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 - [Live Dia 02](https://www.youtube.com/watch?v=WHbhgxJLbN4)
 ## 💻 Tecnologias
 - HTML
-- CSS
+- CSS(SCSS)
 - JavaScript
 
 ## 💬 Assuntos abordados
@@ -20,7 +20,7 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
     - Acessibilidade
     - Web Scraping
     - SEO
-- CSS
+- CSS (SCSS)
     - Posicionamentos
     - Pseudo-elementos
     - Pseudo-classes
